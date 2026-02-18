@@ -2,7 +2,7 @@ class QasaOpencode < Formula
   desc "Read-only OpenCode wrapper for Qasa business staff"
   homepage "https://github.com/qasase/qasa-opencode"
   url "https://github.com/qasase/qasa-opencode/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "55582e7917d35e080c0b9136c85e82b57e7d6f9d0fc8bb1cad08250ff914dd08"
+  sha256 "352ad7a668319f6d61abab88a5b5021bd1c56debfb8eaa0d4f657c12c226be87"
   license "MIT"
 
   depends_on "ruby"
